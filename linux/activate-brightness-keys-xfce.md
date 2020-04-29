@@ -1,8 +1,9 @@
-Check if brightness keys are active:
+# Activate Brightness Keys on XFCE (bug solving)
+## Check if brightness keys are active:
 ```
 xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/handle-brightness-keys
 ```
-Activate keys:
+## Activate keys:
 ```
 xfconf-query -c xfce4-power-manager -p /xfce4-power-manager/handle-brightness-keys --create -t bool -s true
 ```
