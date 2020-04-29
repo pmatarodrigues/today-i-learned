@@ -3,5 +3,8 @@
 Collection of things I've learned that may be useful again to me, or somebody else.
 > Started at Apr 29, 2020
 
+# Git
+- [Merge Repositories](Git/merge-two-repositories.md)
+
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
