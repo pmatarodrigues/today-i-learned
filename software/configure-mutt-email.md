@@ -10,20 +10,31 @@ sudo apt-get install mutt
 
 ### Configure Mutt 
 * Create Configuration Files
+
 `
 mkdir -p ~/.mutt/cache/headers
+`
+
+`
 mkdir ~/.mutt/cache/bodies
+`
+
+`
 touch ~/.mutt/certificates
+`
+
+`
 touch ~/.mutt/muttrc # Configuration file
 `
 
 * Edit Configuration File 
+
 `
 vim ~/.mutt/muttrc
 `
 
 * Add Configuration 
-`
+```
 set ssl_starttls=yes
 set ssl_force_tls=yes
 
@@ -45,4 +56,4 @@ set smtp_url = "smtps://change_this_user_name@gmail.com:PASSWORD@smtp.gmail.com:
 
 set move = no
 set imap_keepalive = 900
-`
+```
