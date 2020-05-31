@@ -1,7 +1,7 @@
 # Install & Configure Mutt Email (Gmail Account)
 
 ### Gmail
-* Generate (app password)[https://support.google.com/accounts/answer/185833] for gmail
+* Generate [app password](https://support.google.com/accounts/answer/185833) for gmail
 
 ### Install Mutt
 `
