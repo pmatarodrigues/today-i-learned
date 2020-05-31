@@ -11,3 +11,6 @@ Collection of things I've learned that may be useful again to me, or somebody el
 
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
+
+# Software
+- [Install & Configure Mutt (Email Client)][software/configure-mutt-email.md]
