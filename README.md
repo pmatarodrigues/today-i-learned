@@ -11,6 +11,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
+- [View Timestamp on Terminal history](linux/timestamp-on-terminal-history.md)
 
 # Software
 - [Install & Configure Mutt (Email Client)](software/configure-mutt-email.md)
