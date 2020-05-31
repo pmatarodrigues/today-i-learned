@@ -52,7 +52,7 @@ set header_cache = "~/.mutt/cache/headers"
 set message_cachedir = "~/.mutt/cache/bodies"
 set certificate_file = "~/.mutt/certificates"
 
-set smtp_url = "smtps://change_this_user_name@gmail.com:PASSWORD@smtp.gmail.com:465/"
+set smtp_url = "smtps://EMAIL:PASSWORD@smtp.gmail.com:465/"
 
 set move = no
 set imap_keepalive = 900
