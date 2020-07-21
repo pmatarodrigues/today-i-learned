@@ -7,6 +7,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Making Locally-Trusted Development Certificates](development/local-development-certificates.md)
 - [Block Access to PhpMyAdmin on Apache](development/block-access-to-phpmyadmin-apache.md)
 - [Send array and objects with AJAX from jQuery to PHP](development/json_stringify_decode_on_php.md)  
+- [PHP - Convert String to Date](development/php-string-to-date.md)
 
 # Git
 - [Merge Repositories](Git/merge-two-repositories.md)
