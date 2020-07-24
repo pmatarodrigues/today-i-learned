@@ -4,7 +4,7 @@
 Change the file `/etc/httpd/conf.d/phpmyadmin.conf/`:
 Remove comments to allow access.
 
-`
+```
 <Directory /usr/share/phpMyAdmin/>
    <IfModule mod_authz_core.c>
      # Apache 2.4
@@ -24,4 +24,4 @@ Remove comments to allow access.
    </IfModule>
 </Directory>
 
-`
+```
