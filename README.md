@@ -8,7 +8,6 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Block Access to PhpMyAdmin on Apache](development/block-access-to-phpmyadmin-apache.md)
 - [jQuery - Using find()](development/jquery-find.md)
 
-
 # Git
 - [Merge Repositories](Git/merge-two-repositories.md)
 - [Remove file from commit](Git/remove-file-from-commit.md)
@@ -27,7 +26,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 
 
 # React
-- [Adding Environment Variables using React and Netlify](development/enviromnet-variables-react-netlify.md)
+- [Adding Environment Variables using React and Netlify](development/environment-variables-react-netlify.md)
 - [Fetch API](react/fetch-api.md)
 
 
