@@ -28,6 +28,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 # React
 - [Adding Environment Variables using React and Netlify](development/environment-variables-react-netlify.md)
 - [Fetch API](react/fetch-api.md)
+- [Fetch JSON API using axios](react/fetch-api-using-axios.md)
 
 
 # Software
