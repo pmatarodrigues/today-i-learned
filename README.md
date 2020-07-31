@@ -20,15 +20,16 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Unlock VirtualBox VM](linux/unlock-virtualbox-vm.md)
 - [How to save read-only files in vim](linux/save-read-only-files-vim.md)
 
-# PHP
-- [Send array and objects with AJAX from jQuery to PHP](development/json_stringify_decode_on_php.md)
-- [PHP - Convert String to Date](development/php-string-to-date.md)
+# Php
+- [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
+- [PHP - Convert String to Date](php/php-string-to-date.md)
 
 
 # React
-- [Adding Environment Variables using React and Netlify](development/environment-variables-react-netlify.md)
+- [Adding Environment Variables using React and Netlify](react/environment-variables-react-netlify.md)
 - [Fetch API](react/fetch-api.md)
 - [Fetch JSON API using axios](react/fetch-api-using-axios.md)
+- [Prevent setState() on unmounted Component](react/prevent-setstate-unmounted-component.md)
 
 
 # Software
