@@ -7,6 +7,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Making Locally-Trusted Development Certificates](development/local-development-certificates.md)
 - [Block Access to PhpMyAdmin on Apache](development/block-access-to-phpmyadmin-apache.md)
 - [jQuery - Using find()](development/jquery-find.md)
+- [Run MongoDB server and NodeJS at the same time](development/run-mongod-nodejs.md)
 
 # Git
 - [Merge Repositories](Git/merge-two-repositories.md)
