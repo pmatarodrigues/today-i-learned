@@ -11,8 +11,8 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Running mongod on background](development/mongod-on-background.md)
 
 # Git
-- [Merge Repositories](Git/merge-two-repositories.md)
-- [Remove file from commit](Git/remove-file-from-commit.md)
+- [Merge Repositories](git/merge-two-repositories.md)
+- [Remove file from commit](git/remove-file-from-commit.md)
 
 
 # Linux
