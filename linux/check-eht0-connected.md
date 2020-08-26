@@ -2,7 +2,7 @@
 
 
 ```
-# cat /sys/class/net/eth0/carrier
+cat /sys/class/net/eth0/carrier
 ```
 Returns "1" if it's connected and "0" if it's not.
 
