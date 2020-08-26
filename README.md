@@ -21,6 +21,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Download and Extracting .tar Directly (without saving on disk first)](linux/download-and-extract-directly.md)
 - [Unlock VirtualBox VM](linux/unlock-virtualbox-vm.md)
 - [How to save read-only files in vim](linux/save-read-only-files-vim.md)
+- [Check if ethernet cable is physically connected (and more)](linux/check-eht0-connected-md)
 
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
