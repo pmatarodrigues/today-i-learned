@@ -9,6 +9,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [jQuery - Using find()](development/jquery-find.md)
 - [Run MongoDB server and NodeJS at the same time](development/run-mongod-nodejs.md)
 - [Running mongod on background](development/mongod-on-background.md)
+- [Transform number of days into formatted string](development/transform-day-into-formatted-string.md)
 
 # Git
 - [Merge Repositories](git/merge-two-repositories.md)
