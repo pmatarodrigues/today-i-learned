@@ -25,6 +25,9 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Check if ethernet cable is physically connected (and more)](linux/check-eht0-connected.md)
 - [Fixing locale errors on debian](linux/fixing-locale-errors.md)
 
+# MySQL
+- [Update Table based on SELECT Query](mysql/update-based-onselect.md)
+
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
 - [PHP - Convert String to Date](php/php-string-to-date.md)
