@@ -26,7 +26,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Fixing locale errors on debian](linux/fixing-locale-errors.md)
 
 # MySQL
-- [Update Table based on SELECT Query](mysql/update-based-onselect.md)
+- [Update Table based on SELECT Query](mysql/update-based-on-select.md)
 
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
