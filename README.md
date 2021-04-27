@@ -42,6 +42,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 - [Fetch API](react/fetch-api.md)
 - [Fetch JSON API using axios](react/fetch-api-using-axios.md)
 - [Prevent setState() on unmounted Component](react/prevent-setstate-unmounted-component.md)
+- [Deploy React project to a subfolder (with correct routes)](react/deploy-react-subfolder-md)
 
 
 # Software
