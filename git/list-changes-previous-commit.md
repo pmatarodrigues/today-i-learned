@@ -1,4 +1,4 @@
-# List changes from the last commit
+# List changes from previous commit
 
 ## Files changed
 $ `git log --stat`

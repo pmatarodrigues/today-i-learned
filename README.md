@@ -18,7 +18,7 @@ Collection of things I've learned that may be useful again to me, or somebody el
 # Git
 - [Merge Repositories](git/merge-two-repositories.md)
 - [Remove file from commit](git/remove-file-from-commit.md)
-- [List changes from last commit](git/list-changes-last-commit.md)
+- [List changes from previous commit](git/list-changes-previous-commit.md)
 
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
