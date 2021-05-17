@@ -2,6 +2,7 @@
 #### Inspired by [r/TodayILearned](https://www.reddit.com/r/todayilearned/) and [jbranchaud/til](https://github.com/jbranchaud)
 Collection of things I've learned that may be useful again to me, or somebody else.
 > Started at Apr 29, 2020
+> A lot of missing things that I forgot to write here ¯\_(ツ)_/¯
 
 # c#
 - [Retrieve Values from JSON](c#/retrieve-values-from-json.md)
