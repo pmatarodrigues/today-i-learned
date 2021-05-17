@@ -25,6 +25,7 @@ Disclaimer:
 - [Merge Repositories](git/merge-two-repositories.md)
 - [Remove file from commit](git/remove-file-from-commit.md)
 - [List changes from previous commit](git/list-changes-previous-commit.md)
+- [Change files mode](git/change-files-mode.md)
 
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
