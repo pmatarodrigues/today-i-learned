@@ -1,4 +1,6 @@
-# VARCHAR returning null on code but correct when directly queried on SQL
+# Convert a value into a different length or datatype
+
+## Why did I learn this
 
 When executing a `SELECT` query to a SQL Server Database through a script, result was returning NULL on a Varchar value, but when the query was directly executed through SQL Server Management Studio everything was fine.
 
@@ -11,8 +13,9 @@ Turns out, there was some kind of encoding made on the SQLServer wrapper that ma
 
 ## Solution
 
+Using SQL Server **CAST()** function
 Cast value to be the size I wanted when received.
 ```
-SELECT Cast(value as VARCHAR(200)) AS value
+SELECT CAST(value as VARCHAR(200)) AS value
 FROM table
 ```

@@ -54,4 +54,4 @@ Disclaimer:
 
 # SQL
 - [Update Table based on SELECT Query](mysql/update-based-on-select.md)
-- [VARCHAR returning null on code but correct when directly queried on SQL](sql/varchar-returning-null-on-select.md)
+- [Convert a value into a different length or datatype](sql/convert-value-different-length-datatype.md)
