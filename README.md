@@ -36,9 +36,6 @@ Disclaimer:
 - [Check if ethernet cable is physically connected (and more)](linux/check-eht0-connected.md)
 - [Fixing locale errors on debian](linux/fixing-locale-errors.md)
 
-# MySQL
-- [Update Table based on SELECT Query](mysql/update-based-on-select.md)
-
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
 - [PHP - Convert String to Date](php/php-string-to-date.md)
@@ -54,3 +51,7 @@ Disclaimer:
 
 # Software
 - [Install & Configure Mutt (Email Client)](software/configure-mutt-email.md)
+
+# SQL
+- [Update Table based on SELECT Query](mysql/update-based-on-select.md)
+- [VARCHAR returning null on code but correct when directly queried on SQL](sql/varchar-returning-null-on-select.md)
