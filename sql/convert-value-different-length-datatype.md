@@ -15,7 +15,7 @@ Turns out, there was some kind of encoding made on the SQLServer wrapper that ma
 
 Using SQL Server **CAST()** function
 Cast value to be the size I wanted when received.
-```
+```sql
 SELECT CAST(value as VARCHAR(200)) AS value
 FROM table
 ```
