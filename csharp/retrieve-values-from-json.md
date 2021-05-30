@@ -1,6 +1,6 @@
 # Retrieve Values from JSON
 
-```
+```c#
 string json = "{"doc":"2121","serie":"0","num":"1"}";
 JObject data = JObject.Parse(json);
 -- or --

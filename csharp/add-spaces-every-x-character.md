@@ -1,6 +1,6 @@
 # Add space to String once between every X characters
 
-```
+```c#
 
 String phoneNumber = "966666666";
 int interval = 3;
