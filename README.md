@@ -7,8 +7,8 @@ Disclaimer:
 > There's a lot of missing things that I forgot to write here ¯\_(ツ)_/¯
 
 # c#
-- [Retrieve Values from JSON](c#/retrieve-values-from-json.md)
-- [Add space to String once between every X characters](c#/add-spaces-every-x-character.md)
+- [Retrieve Values from JSON](csharp/retrieve-values-from-json.md)
+- [Add space to String once between every X characters](csharp/add-spaces-every-x-character.md)
 
 # Development
 - [Making Locally-Trusted Development Certificates](development/local-development-certificates.md)
