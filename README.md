@@ -13,7 +13,6 @@ Disclaimer:
 # Development
 - [Making Locally-Trusted Development Certificates](development/local-development-certificates.md)
 - [Block Access to PhpMyAdmin on Apache](development/block-access-to-phpmyadmin-apache.md)
-- [jQuery - Using find()](development/jquery-find.md)
 - [Run MongoDB server and NodeJS at the same time](development/run-mongod-nodejs.md)
 - [Running mongod on background](development/mongod-on-background.md)
 - [Transform number of days into formatted string](development/transform-day-into-formatted-string.md)
@@ -28,6 +27,7 @@ Disclaimer:
 - [Change files mode](git/change-files-mode.md)
 
 # Javascript
+- [jQuery - Using find()](javascript/jquery-find.md)
 - [Copy to Clipboard](javascript/copy-to-clipboard.md)
 
 # Linux
