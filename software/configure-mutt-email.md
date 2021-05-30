@@ -4,37 +4,37 @@
 * Generate [app password](https://support.google.com/accounts/answer/185833) for gmail
 
 ### Install Mutt
-`
+```bash
 sudo apt-get install mutt
-`
+```
 
-### Configure Mutt 
+### Configure Mutt
 * Create Configuration Files
 
-`
+```bash
 mkdir -p ~/.mutt/cache/headers
-`
-
-`
-mkdir ~/.mutt/cache/bodies
-`
-
-`
-touch ~/.mutt/certificates
-`
-
-`
-touch ~/.mutt/muttrc # Configuration file
-`
-
-* Edit Configuration File 
-
-`
-vim ~/.mutt/muttrc
-`
-
-* Add Configuration 
 ```
+
+```bash
+mkdir ~/.mutt/cache/bodies
+```
+
+```bash
+touch ~/.mutt/certificates
+```
+
+```bash
+touch ~/.mutt/muttrc # Configuration file
+```
+
+* Edit Configuration File
+
+```bash
+vim ~/.mutt/muttrc
+```
+
+* Add Configuration
+```bash
 set ssl_starttls=yes
 set ssl_force_tls=yes
 
