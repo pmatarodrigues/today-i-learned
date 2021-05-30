@@ -1,8 +1,8 @@
 # How to save read-only files in vim
 
-`
+```bash
 :w !sudo tee % >/dev/null
-`
+```
 
 `
 :w !...
@@ -13,9 +13,9 @@ In this case the command is sudo tee % >/dev/null. The special symbol % means th
 
 ## Creating an alias to make this easier to use
 On ~/.vimrc:
-`
+```bash
 cnoremap sudow w !sudo tee % >/dev/null
-`
+```
 Now, we only need to type:
 `
 :sudow

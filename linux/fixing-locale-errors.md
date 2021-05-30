@@ -1,6 +1,6 @@
 # Fixing locale errors on debian
 
-```
+```bash
 localedef -f UTF-8 -i <locale> <locale>.UTF-8
 ```
 
