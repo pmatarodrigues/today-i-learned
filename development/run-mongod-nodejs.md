@@ -2,7 +2,7 @@
 
 Add this scripts to **package.json** (mongodb server's path is *data*)
 
-```
+```json
 "scripts": {
   "prestart": "mongod --dbpath data --fork --logpath /dev/null",
   "start": "node ./bin/www",
