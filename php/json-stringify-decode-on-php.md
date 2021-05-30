@@ -7,6 +7,6 @@ To send objects from jQuery to PHP is necessary to encode in JSON format.
 JSON.Stringify(object)
 ``
 * On PHP:
-``
-json\_decode(html\_entity\_decode(stripslashes($POST)));
-``
+```php
+json_decode(html_entity_decode(stripslashes($_POST)));
+```
