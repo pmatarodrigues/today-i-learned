@@ -27,6 +27,9 @@ Disclaimer:
 - [List changes from previous commit](git/list-changes-previous-commit.md)
 - [Change files mode](git/change-files-mode.md)
 
+# Javascript
+- [Copy to Clipboard](Javascript/copy-to-clipboard.md)
+
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
 - [View Timestamp on Terminal history](linux/timestamp-on-terminal-history.md)
