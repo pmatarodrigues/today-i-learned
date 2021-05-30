@@ -28,7 +28,7 @@ Disclaimer:
 - [Change files mode](git/change-files-mode.md)
 
 # Javascript
-- [Copy to Clipboard](Javascript/copy-to-clipboard.md)
+- [Copy to Clipboard](javascript/copy-to-clipboard.md)
 
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
