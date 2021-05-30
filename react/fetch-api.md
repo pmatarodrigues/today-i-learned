@@ -1,6 +1,6 @@
 # Fetch API
 
-```
+```js
 let url = "https://pmatarodrigues.com";
 
 fetch(url + "?language=react&key=" + process.env.SECRET_KEY)

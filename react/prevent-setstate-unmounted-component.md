@@ -3,7 +3,7 @@
 To prevent the execution of setState on unmounted components, we should just create a variable that gets set as true when the component is mounted, and false when the component unmounts.
 This makes it possible for us to verify if the component is mounted or not.
 
-```
+```js
 class Tests extends Component {
   _isMounted = false;
 
