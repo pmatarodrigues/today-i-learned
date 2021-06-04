@@ -16,6 +16,8 @@ Disclaimer:
 - [Run MongoDB server and NodeJS at the same time](development/run-mongod-nodejs.md)
 - [Running mongod on background](development/mongod-on-background.md)
 - [Transform number of days into formatted string](development/transform-day-into-formatted-string.md)
+- [Save file without formatting on VS Code](development/vscode-save-without-formatting.md)
+- [View all available keyboard shortcuts on VS Code](development/vscode-view-all-shortcuts.md)
 
 # Docker
 - [Restore SQL backup to container](docker/restore-sql-backup.md)
