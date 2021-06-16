@@ -43,6 +43,7 @@ Disclaimer:
 - [How to save read-only files in vim](linux/save-read-only-files-vim.md)
 - [Check if ethernet cable is physically connected (and more)](linux/check-eht0-connected.md)
 - [Fixing locale errors on debian](linux/fixing-locale-errors.md)
+- [Create Multiple Directories](linux/create-multiple-directories.md)
 
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
