@@ -58,6 +58,8 @@ Disclaimer:
 - [Prevent setState() on unmounted Component](react/prevent-setstate-unmounted-component.md)
 - [Deploy React project to a subfolder (with correct routes)](react/deploy-react-subfolder.md)
 
+# React Native
+- [Get Screen Dimensions](react-native/get-screen-dimensions.md)
 
 # Software
 - [Install & Configure Mutt (Email Client)](software/configure-mutt-email.md)
