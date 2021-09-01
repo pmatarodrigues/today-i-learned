@@ -34,6 +34,7 @@ Disclaimer:
 # Javascript
 - [jQuery - Using find()](javascript/jquery-find.md)
 - [Copy to Clipboard](javascript/copy-to-clipboard.md)
+- [Look for changes to DOM element](javascript/look-for-changes-to-dom-element)
 
 # Linux
 - [Activate brightness keys (xfce)](linux/activate-brightness-keys-xfce.md)
