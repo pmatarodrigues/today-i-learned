@@ -31,6 +31,9 @@ Disclaimer:
 - [List changes from previous commit](git/list-changes-previous-commit.md)
 - [Change files mode](git/change-files-mode.md)
 
+# Java
+- [Change JAVA version on Manjaro/Arch](java/manjaro-arch-change-java-version.md)
+
 # Javascript
 - [jQuery - Using find()](javascript/jquery-find.md)
 - [Copy to Clipboard](javascript/copy-to-clipboard.md)

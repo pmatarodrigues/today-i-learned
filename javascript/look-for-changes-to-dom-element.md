@@ -3,7 +3,7 @@
 ## Why did I learn this
 Trying to execute a function everytime an element was changed by another library.
 
-
+## Solution
 ```javascript
   // select the target node
   var target = document.querySelector(".commentlist");
