@@ -51,6 +51,7 @@ Disclaimer:
 - [Fixing locale errors on debian](linux/fixing-locale-errors.md)
 - [Create Nested Directories](linux/create-nested-directories.md)
 - [Create Multiple Directories](linux/create-multiple-directories.md)
+- [Locally mount remote file](linux/locally-mount-remote-file.md)
 
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
