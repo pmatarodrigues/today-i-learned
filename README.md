@@ -52,6 +52,7 @@ Disclaimer:
 - [Create Nested Directories](linux/create-nested-directories.md)
 - [Create Multiple Directories](linux/create-multiple-directories.md)
 - [Locally mount remote file](linux/locally-mount-remote-file.md)
+- [Output Microphone Audio](linux/output-microphone-audio.md)
 
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
