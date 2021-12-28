@@ -54,6 +54,7 @@ Disclaimer:
 - [Locally mount remote file](linux/locally-mount-remote-file.md)
 - [Output Microphone Audio](linux/output-microphone-audio.md)
 - [Show system information](linux/show-system-information.md)
+- [Terminal: Open new tab on current directory](linux/terminal-new-tab-current-dir.md)
 
 # Php
 - [Send array and objects with AJAX from jQuery to PHP](php/json_stringify_decode_on_php.md)
